@@ -1,0 +1,50 @@
+.challenge-card {
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    border-radius: 20px; /* Bordes redondeados */
+    padding: 20px;
+    position: relative;
+    width: 300px; /* Ancho de la carta */
+    height: 450px; /* Altura de la carta */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4); /* Sombra */
+    border: 4px solid; /* Bordes dinámicos */
+    margin: 20px auto; /* Centra la carta */
+    text-align: center; /* Centra el texto */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Coloca elementos arriba */
+}
+
+.challenge-category {
+    font-weight: bold;
+    font-size: 28px;
+    margin-top: 5px;
+}
+
+.challenge-text {
+    font-size: 18px;
+    margin: 5px 0;
+    line-height: 1.5;
+    padding: 0 10px;
+}
+
+.challenge-penalty {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.icon-container {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.devil-icon {
+    width: 50px;
+    height: auto;
+    transition: fill 0.3s ease; /* Transición suave para el color del ícono */
+    filter: brightness(0) saturate(100%) invert(100%);
+}

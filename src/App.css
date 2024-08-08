@@ -1,0 +1,100 @@
+﻿/* Estilo básico para el cuerpo */
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Oculta el desplazamiento de body */
+}
+
+/* Contenedor principal centrado */
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    padding-top: 60px; /* Espacio para el navbar */
+    overflow-y: auto; /* Permite el desplazamiento vertical */
+    box-sizing: border-box; /* Incluye el padding en el tamaño total del contenedor */
+    position: relative;
+}
+
+/* Barra de navegación */
+.navbar {
+    width: 100%;
+    height: 50px; /* Reducir altura del navbar */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; /* Centra verticalmente los elementos dentro del navbar */
+    padding: 10px;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 1000; /* Asegura que el navbar esté siempre en la parte superior */
+}
+
+/* Botón principal */
+button {
+    background-color: #007bff; /* Azul claro */
+    border: none;
+    border-radius: 5px;
+    color: white; /* Texto blanco */
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    button:hover {
+        background-color: #0056b3; /* Azul más oscuro */
+    }
+
+input[type="number"], input[type="text"], select {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #333; /* Fondo oscuro para los inputs */
+    color: white; /* Texto blanco para los inputs */
+    width: 100%; /* Ocupa todo el ancho disponible */
+    max-width: 200px; /* Ancho máximo para evitar que los inputs se extiendan demasiado */
+}
+
+/* Lista de jugadores */
+.player-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 600px; /* Ancho máximo para el contenedor de la lista */
+}
+
+.player-item {
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between; /* Para espaciar el botón del nombre */
+    width: 100%;
+    max-width: 600px; /* Ajusta según sea necesario */
+}
+
+.player-details {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}

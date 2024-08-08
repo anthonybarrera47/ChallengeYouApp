@@ -1,0 +1,236 @@
+[
+  {
+    "Category": "Confiesa",
+    "Text": "¿Con cuál ex te acostarías hasta el final de los tiempos?",
+    "Penalty": "2 Shots",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Cuál es tu plan ideal para una cita perfecta?",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Qué es lo más atrevido que has hecho por amor?",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Alguna vez te has enamorado de alguien aquí?",
+    "Penalty": "2 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Cuál es tu experiencia más intensa en la cama?",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Cuál es tu lugar secreto para encuentros íntimos?",
+    "Penalty": "2 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Alguna vez has pensado en alguien del grupo de manera romántica?",
+    "Penalty": "2 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Cuál es tu fantasía más atrevida?",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Qué te atrae más de una persona físicamente?",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Cuál es tu juguete sexual favorito?",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Qué parte del cuerpo encuentras más sensual?",
+    "Penalty": "1 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Qué es lo que más te excita en una cita?",
+    "Penalty": "1 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Cuál es tu fantasía sexual más extrema?",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Cuál es tu posición favorita para hacer el amor?",
+    "Penalty": "1 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Qué te hace sentir más excitado/a?",
+    "Penalty": "1 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Alguna vez has tenido un trío? Detalles.",
+    "Penalty": "3 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Te has enamorado de un(a) amigo(a) presente?",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Con cuál de los presentes tendrías un mangue secreto?",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Confiesa",
+    "Text": "¿Cuál ha sido tu experiencia sexual más incómoda?",
+    "Penalty": "1 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Da un abrazo a la persona que esté a tu izquierda",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Da un masaje en los hombros a la persona a tu izquierda.",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Cuenta una anécdota divertida sobre una cita pasada",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Baila una canción lenta con alguien del grupo.",
+    "Penalty": "2 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Escribe una carta de amor improvisada y léela en voz alta",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Dedica una canción de amor a alguien en el grupo.",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Besa la mejilla de la persona más atractiva.",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Haz una imitación sensual de alguien del grupo.",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Comparte un secreto íntimo con alguien del grupo.",
+    "Penalty": "2 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Haz un baile provocativo para el grupo.",
+    "Penalty": "1 shot",
+    "Color": "#3a8dff"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Susurra tus pensamientos más eróticos al oído de alguien.",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Haz un cumplido sexy a cada persona en la habitación.",
+    "Penalty": "3 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Besa íntimamente a la persona que elijas tu frente",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Hazle un cumplido a la persona a tu derecha",
+    "Penalty": "1 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Comparte un secreto picante con alguien del grupo.",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Muestra tu pose más seductora durante 1 minuto.",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Besa apasionadamente a la persona más atractiva del grupo",
+    "Penalty": "3 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Envía un mensaje de texto sugerente a tu ex.",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Simula un orgasmo lo más convincente posible.",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  },
+  {
+    "Category": "Reto",
+    "Text": "Da una nalgada a la persona a tu derecha.",
+    "Penalty": "2 shot",
+    "Color": "#ffff00"
+  }
+]

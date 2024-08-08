@@ -1,0 +1,103 @@
+.challenge-results {
+    padding: 20px;
+    background-color: #1c1c1c;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+    margin: 20px auto;
+    width: 80%;
+}
+
+    .challenge-results h2,
+    .challenge-results h3 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.player-card {
+    background-color: #333;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 45%;
+    margin: 10px;
+}
+
+.player-result {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+    .player-result button {
+        background-color: #3a8dff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        padding: 5px 10px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .player-result button:hover {
+            background-color: #2a6fb0;
+        }
+
+.details, .all-details {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #2e2e2e;
+    border-radius: 5px;
+}
+
+.challenge-detail, .challenge-history {
+    padding: 5px 0;
+    border-bottom: 1px solid #444;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #fff;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #3a8dff;
+}
+
+td {
+    background-color: #2e2e2e;
+}
+
+button.show-history {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 10px auto;
+    display: block;
+}
+
+    button.show-history:hover {
+        background-color: #444;
+    }
