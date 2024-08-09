@@ -14,7 +14,7 @@ const ChallengeDisplay = ({ challenges, players, setChallengeResults, challengeR
             ...challengeResults,
             {
                 challenge: currentChallenge.Text,
-                category: currentChallenge.Category, // Agregar categoría
+                category: currentChallenge.Category, // Agregar categorï¿½a
                 penalty: currentChallenge.Penalty, // Agregar penalidad
                 color: currentChallenge.Color,
                 result,
